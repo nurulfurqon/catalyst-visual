@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_quickarrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_quickarrow">
+            <g id="ic_quickarrow">
+                <polygon id="Fill-1" fill="#E9E8E7" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <polygon id="Fill-2" fill="#364058" points="18.3535 17.6465 6.7075 6.0005 13.9995 6.0005 13.9995 5.0005 4.9995 5.0005 4.9995 14.0005 5.9995 14.0005 5.9995 6.7075 17.6465 18.3535"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

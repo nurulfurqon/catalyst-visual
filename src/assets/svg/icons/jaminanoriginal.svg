@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_jaminanoriginal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_jaminanoriginal">
+            <g id="ic_jaminanoriginal">
+                <polygon id="Path" fill="#E5E5E4" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M18.99415,13.45265 C18.79715,15.66965 17.12615,17.88915 14.52265,19.39015 L11.99965,20.84515 L9.47665,19.39015 C6.86315,17.88315 5.18665,15.66365 4.99215,13.49565 L4.97765,6.68065 L11.99965,3.02915 L19.02165,6.68065 L18.99415,13.45265 Z M11.99215,1.93415 L3.97615,6.07215 L3.99415,13.54065 C4.21865,16.07615 6.08165,18.58665 8.97715,20.25615 L11.99965,21.99965 L15.02265,20.25615 C17.90765,18.59265 19.76465,16.08215 19.99215,13.49865 L20.02415,6.07215 L11.99215,1.93415 Z" id="Fill-31" fill="#394057"></path>
+                <polyline id="Stroke-33" stroke="#394057" stroke-linecap="round" stroke-linejoin="round" points="16.24485 9.33445 11.16435 14.66545 8.75535 12.18395"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

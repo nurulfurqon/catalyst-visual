@@ -1,0 +1,7 @@
+{
+  "small" : "12",
+  "default": "16",
+  "medium": "24",
+  "large" : "32",
+  "largest": "42"
+}

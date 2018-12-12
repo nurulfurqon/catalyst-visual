@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_promoapplied</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_promoapplied">
+            <g id="ic_promoapplied">
+                <g id="Group-34" transform="translate(2.500000, 2.500000)">
+                    <path d="M16.78345,4.75 C16.08395,5.4495 14.94945,5.4495 14.24995,4.75 C13.55045,4.0505 13.55045,2.916 14.24995,2.217 L12.03345,0 L-5.00000001e-05,12.033 L2.21645,14.25 C2.91645,13.5505 4.05045,13.5505 4.74995,14.25 C5.44945,14.9495 5.44945,16.084 4.74995,16.783 L6.96645,19 L18.99995,6.967 L16.78345,4.75 Z" id="Stroke-18" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10.5,15.5 L3.5,8.5" id="Fill-20" fill="#F2F2F2"></path>
+                    <path d="M10.5,15.5 L9.7385,14.7385" id="Stroke-22" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M8.64305,13.64305 L4.80905,9.80905" id="Stroke-24" stroke="#364058" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.549000024795532,1.549000024795532,1.549000024795532,1.549000024795532"></path>
+                    <path d="M4.26145,9.2617 L3.49995,8.5002" id="Stroke-26" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M19,14 C19,16.761 16.7615,19 14,19 C11.2385,19 9,16.761 9,14 C9,11.239 11.2385,9 14,9 C16.7615,9 19,11.239 19,14" id="Fill-28" fill="#FFFFFF"></path>
+                    <path d="M19,14 C19,16.761 16.7615,19 14,19 C11.2385,19 9,16.761 9,14 C9,11.239 11.2385,9 14,9 C16.7615,9 19,11.239 19,14 Z" id="Stroke-30" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-32" stroke="#364058" stroke-linecap="round" stroke-linejoin="round" points="11.96875 14.2969 13.12525 15.4534 16.03125 12.5469"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_chevronright</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_chevronright">
+            <g id="ic_chevronright" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) ">
+                <polygon id="Path" fill="#E5E5E4" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <polyline id="Stroke-18" stroke="#374058" points="17.5 9.5 12 15 6.5 9.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

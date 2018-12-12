@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_barangterjual</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_barangterjual">
+            <g id="ic_barangterjual">
+                <polygon id="Fill-1" fill="#E4E4E3" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M5.5,12 L5.5,2.5 L21.5,2.5 L21.5,15.5 C21.5,16.6045 20.6045,17.5 19.5,17.5 L12.5,17.5" id="Stroke-13" stroke="#384058"></path>
+                <path d="M15,14.5 L19,14.5" id="Stroke-17" stroke="#384058"></path>
+                <polygon id="Stroke-19" stroke="#3D3C5A" stroke-linejoin="round" points="13.5 6.3462 15.5 7.5002 15.5 2.5002 11.5 2.5002 11.5 7.5002"></polygon>
+                <path d="M12.5,16.5 C12.5,19.2615 10.261,21.5 7.5,21.5 C4.739,21.5 2.5,19.2615 2.5,16.5 C2.5,13.7385 4.739,11.5 7.5,11.5 C10.261,11.5 12.5,13.7385 12.5,16.5 Z" id="Stroke-21" stroke="#384058"></path>
+                <polyline id="Stroke-23" stroke="#384058" stroke-width="1.111" points="5 16.5 7 18 10 15"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

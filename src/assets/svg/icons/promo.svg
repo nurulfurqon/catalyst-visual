@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_promo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_promo">
+            <g id="ic_promo">
+                <polygon id="Fill-1" fill="#E5E5E4" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M18.26345,13.51465 L9.42445,22.35365 C9.22945,22.54865 8.91295,22.54865 8.71745,22.35365 L1.64645,15.28265 C1.45095,15.08715 1.45095,14.77065 1.64645,14.57565 L10.48545,5.73665 C11.08295,5.13915 11.90495,4.82115 12.74945,4.86115 L16.57795,5.04365 C17.86545,5.10515 18.89495,6.13465 18.95645,7.42165 L19.13845,11.25065 C19.17895,12.09515 18.86095,12.91715 18.26345,13.51465 Z" id="Stroke-19" stroke="#374058" stroke-linecap="square" stroke-linejoin="round"></path>
+                <path d="M16.20705,7.79295 C16.59755,8.18345 16.59755,8.81645 16.20705,9.20695 C15.81655,9.59745 15.18355,9.59745 14.79305,9.20695 C14.40255,8.81645 14.40255,8.18345 14.79305,7.79295 C15.18355,7.40245 15.81655,7.40245 16.20705,7.79295 Z" id="Stroke-21" stroke="#374058" stroke-linecap="square" stroke-linejoin="round"></path>
+                <path d="M14.249,4.5 C14.739,3.3255 15.898,2.5 17.25,2.5 C19.045,2.5 20.5,3.955 20.5,5.75 C20.5,7.545 19.045,9 17.25,9 C16.6055,9 16.005,8.8125 15.5,8.489" id="Stroke-23" stroke="#374058" stroke-linecap="square" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

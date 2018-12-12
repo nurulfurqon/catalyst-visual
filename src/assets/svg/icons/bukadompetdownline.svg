@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_bukadompetdownline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_bukadompetdownline">
+            <g id="ic_bukadompetdownline">
+                <polygon id="Fill-1" fill="#686868" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <polygon id="Fill-2" fill="#364058" points="20.6465 16.43945 18 19.08595 18 13.29295 17 13.29295 17 19.08595 14.3535 16.43945 13.6465 17.14645 17.5 20.99995 21.3535 17.14645"></polygon>
+                <path d="M4,18 L4,8.678 C4.3225,8.8785 4.699,9 5.1065,9 L5.5,9 L6,9 L6,19 L5,19 C4.45,19 4,18.55 4,18 Z M7,19 L7,9 L17.5,9 L19,9 L19,16.67 L20,15.67 L20,8.5 C20,8.225 19.775,8 19.5,8 L17.5,8 L5.5,8 L5.1065,8 C4.4965,8 4,7.5035 4,6.8935 C4,6.346 4.408,5.875 4.95,5.798 L17,4.0765 L17,7 L18,7 L18,3.5 C18,3.355 17.937,3.2175 17.8275,3.1225 C17.7185,3.0275 17.572,2.9845 17.429,3.005 L4.8085,4.808 C3.91,4.9365 3,5.5 3,6.5 L3,18 C3,19.105 3.895,20 5,20 L15.085,20 L14.085,19 L7,19 Z" id="Fill-3" fill="#364058"></path>
+            </g>
+        </g>
+    </g>
+</svg>

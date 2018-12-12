@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_grosir</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_grosir">
+            <g id="ic_grosir">
+                <polygon id="Path" fill="#E6E6E6" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M20.4331,19.38865 L14.5001,19.38865 L14.5001,10.50015 L11.5001,10.50015 L21.5001,10.50015 L21.5001,18.50015 C21.5001,18.99065 21.0226,19.38865 20.4331,19.38865 Z" id="Stroke-19" stroke="#374058"></path>
+                <polygon id="Stroke-21" stroke="#374058" points="5.5 10.5 16.5 10.5 16.5 2.5 5.5 2.5"></polygon>
+                <path d="M12.5,21.5 L4.5,21.5 C3.3955,21.5 2.5,20.6045 2.5,19.5 L2.5,10.5 L14.5,10.5 L14.5,19.5 C14.5,20.6045 13.6045,21.5 12.5,21.5 Z" id="Stroke-23" stroke="#374058"></path>
+                <polygon id="Stroke-24" stroke="#3D3C5A" stroke-linejoin="round" points="8.5 13.3462 10.5 14.5002 10.5 10.5002 6.5 10.5002 6.5 14.5002"></polygon>
+                <polygon id="Stroke-26" stroke="#374058" points="9.5 5.5 12.5 5.5 12.5 2.5 9.5 2.5"></polygon>
+                <polyline id="Stroke-27" stroke="#374058" points="14.5 10 14.5 13.5 17.5 13.5 17.5 10"></polyline>
+                <path d="M10,19.5 L13,19.5" id="Fill-28" fill="#FFFFFF"></path>
+                <path d="M10,19.5 L13,19.5" id="Stroke-29" stroke="#374058"></path>
+            </g>
+        </g>
+    </g>
+</svg>

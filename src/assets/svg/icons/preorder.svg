@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_preorder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_preorder">
+            <g id="ic_preorder">
+                <polygon id="Path" fill="#E4E4E3" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M4.5,12.5 L4.5,2.5 L21.5,2.5 L21.5,17.2335 C21.5,18.485 20.5485,19.5 19.375,19.5 L11.5,19.5" id="Stroke-13" stroke="#394058"></path>
+                <polygon id="Stroke-15" stroke="#3E3C5A" stroke-linejoin="round" points="13 6.3462 15.5 7.5002 15.5 2.5002 10.5 2.5002 10.5 7.5002"></polygon>
+                <path d="M2.5,16.5 C2.5,13.7385 4.739,11.5 7.5,11.5 C10.261,11.5 12.5,13.7385 12.5,16.5 C12.5,19.2615 10.261,21.5 7.5,21.5 C4.739,21.5 2.5,19.2615 2.5,16.5" id="Stroke-17" stroke="#394058"></path>
+                <polyline id="Stroke-19" stroke="#384058" points="7.5 13.5 7.5 16.6665 10 18"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

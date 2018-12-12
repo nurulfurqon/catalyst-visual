@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_sort</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_sort">
+            <g id="ic_sort">
+                <polygon id="Fill-1" fill="#E9E8E7" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <g id="Group" transform="translate(3.000000, 6.000000)" fill="#364058">
+                    <polygon id="Fill-2" points="0 1 18 1 18 0 0 0"></polygon>
+                    <polygon id="Fill-3" points="2 5 15.999 5 15.999 3.999 2 3.999"></polygon>
+                    <polygon id="Fill-4" points="4 9 14 9 14 8 4 8"></polygon>
+                    <polygon id="Fill-5" points="6 13 12 13 12 12 6 12"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

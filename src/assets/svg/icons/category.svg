@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_category</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_category">
+            <g id="ic_category">
+                <polygon id="Fill-1" fill="#E9E8E7" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <polygon id="Fill-2" fill="#364058" points="9 8 19 8 19 7 9 7"></polygon>
+                <path d="M6.5,7 L4.5,7 C4.224,7 4,7.224 4,7.5 C4,7.776 4.224,8 4.5,8 L6.5,8 C6.776,8 7,7.776 7,7.5 C7,7.224 6.776,7 6.5,7" id="Fill-3" fill="#364058"></path>
+                <polygon id="Fill-5" fill="#364058" points="9 13 19 13 19 12 9 12"></polygon>
+                <path d="M6.5,12 L4.5,12 C4.224,12 4,12.224 4,12.5 C4,12.776 4.224,13 4.5,13 L6.5,13 C6.776,13 7,12.776 7,12.5 C7,12.224 6.776,12 6.5,12" id="Fill-7" fill="#364058"></path>
+                <polygon id="Fill-8" fill="#364058" points="9 18 19 18 19 17 9 17"></polygon>
+                <path d="M6.5,17 L4.5,17 C4.224,17 4,17.224 4,17.5 C4,17.776 4.224,18 4.5,18 L6.5,18 C6.776,18 7,17.776 7,17.5 C7,17.224 6.776,17 6.5,17" id="Fill-9" fill="#364058"></path>
+            </g>
+        </g>
+    </g>
+</svg>

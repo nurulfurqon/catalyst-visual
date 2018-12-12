@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_kontrak</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_kontrak">
+            <g id="ic_kontrak">
+                <polygon id="Path" fill="#E3E3E2" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M16.5,12 L7.5,12 C7.224,12 7,11.7765 7,11.5 C7,11.2235 7.224,11 7.5,11 L16.5,11 C16.776,11 17,11.2235 17,11.5 C17,11.7765 16.776,12 16.5,12" id="Fill-19" fill="#364058"></path>
+                <path d="M16.5,9 L7.5,9 C7.224,9 7,8.7765 7,8.5 C7,8.2235 7.224,8 7.5,8 L16.5,8 C16.776,8 17,8.2235 17,8.5 C17,8.7765 16.776,9 16.5,9" id="Fill-21" fill="#364058"></path>
+                <path d="M16.5,6 L7.5,6 C7.224,6 7,5.7765 7,5.5 C7,5.2235 7.224,5 7.5,5 L16.5,5 C16.776,5 17,5.2235 17,5.5 C17,5.7765 16.776,6 16.5,6" id="Fill-23" fill="#364058"></path>
+                <path d="M8.5,15 L7.5,15 C7.224,15 7,14.7765 7,14.5 C7,14.2235 7.224,14 7.5,14 L8.5,14 C8.776,14 9,14.2235 9,14.5 C9,14.7765 8.776,15 8.5,15" id="Fill-25" fill="#364058"></path>
+                <path d="M18.5,19.2324 C19.098,18.8869 19.5,18.2409 19.5,17.4999 L19.5,3.4999 C19.5,2.3949 18.605,1.4999 17.5,1.4999 L6.5,1.4999 C5.395,1.4999 4.5,2.3949 4.5,3.4999 L4.5,17.4999 C4.5,18.6049 5.395,19.4999 6.5,19.4999 L10.5,19.4999" id="Stroke-27" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.5,16.5 C11.5,14.8435 12.8435,13.5 14.5,13.5 C16.157,13.5 17.5,14.8435 17.5,16.5 C17.5,17.387 17.1125,18.182 16.5,18.7315 L16.5,22.5 L14.5,21.5 L12.5,22.5 L12.5,18.7315 C11.8875,18.182 11.5,17.387 11.5,16.5 Z" id="Stroke-29" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M17.5,16.5 C17.5,14.8435 16.1565,13.5 14.5,13.5 C12.8435,13.5 11.5,14.8435 11.5,16.5 C11.5,18.1565 12.8435,19.5 14.5,19.5" id="Stroke-31" stroke="#364058" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

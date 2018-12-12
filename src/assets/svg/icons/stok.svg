@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_stok</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_stok">
+            <g id="ic_stok">
+                <polygon id="Fill-1" fill="#FFFFFF" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <g id="Group-3" transform="translate(1.000000, 4.000000)">
+                    <path d="M7.5,13.5 L2.5,13.5 C1.3955,13.5 0.5,12.6045 0.5,11.5 L0.5,2.5 L7.5,2.5" id="Stroke-3" stroke="#384058"></path>
+                    <path d="M19.5,15.5 L9.5,15.5 C8.3955,15.5 7.5,14.6045 7.5,13.5 L7.5,0.5 L21.5,0.5 L21.5,13.5 C21.5,14.6045 20.6045,15.5 19.5,15.5 Z" id="Stroke-5" stroke="#384058"></path>
+                    <path d="M15.5,12.5 L19,12.5" id="Fill-7" fill="#FEFEFE"></path>
+                    <path d="M15.5,12.5 L19,12.5" id="Stroke-9" stroke="#384058"></path>
+                    <polygon id="Stroke-11" stroke="#3D3C5A" stroke-linejoin="round" points="14.5 4.3462 16.5 5.5002 16.5 0.5002 12.5 0.5002 12.5 5.5002"></polygon>
+                    <polygon id="Stroke-13" stroke="#3D3C5A" stroke-linejoin="round" points="6 6.0769 7.5 6.9999 7.5 2.9999 4.5 2.9999 4.5 6.9999"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_list</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_list">
+            <g id="ic_list">
+                <polygon id="Fill-1" fill="#E9E8E7" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M5,8 L19,8 L19,6 L5,6 L5,8 Z M4,9 L20,9 L20,5 L4,5 L4,9 Z" id="Fill-2" fill="#364058"></path>
+                <path d="M5,14 L19,14 L19,12 L5,12 L5,14 Z M4,15 L20,15 L20,11 L4,11 L4,15 Z" id="Fill-3" fill="#364058"></path>
+                <path d="M5,20 L19,20 L19,18 L5,18 L5,20 Z M4,21 L20,21 L20,17 L4,17 L4,21 Z" id="Fill-4" fill="#364058"></path>
+            </g>
+        </g>
+    </g>
+</svg>

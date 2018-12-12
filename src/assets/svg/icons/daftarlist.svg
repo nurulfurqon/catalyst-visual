@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/line/ic_daftarlist</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-Line-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/line/ic_daftarlist">
+            <g id="ic_daftarlist">
+                <rect id="Rectangle-4" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group" transform="translate(3.000000, 3.000000)" fill="#364058">
+                    <path d="M17,15 C17,16.103 16.103,17 15,17 L14.5,17 L14.5,10 L17,10 L17,15 Z M13.5,17 L1,17 L1,1 L13.5,1 L13.5,9 L13.5,17 Z M14.5,9 L14.5,0 L0,0 L0,18 L13.5,18 L14.5,18 L15,18 C16.657,18 18,16.657 18,15 L18,9 L14.5,9 Z" id="Fill-1"></path>
+                    <polygon id="Fill-3" points="2.5 4 12 4 12 3 2.5 3"></polygon>
+                    <polygon id="Fill-5" points="2.5 11 12 11 12 10 2.5 10"></polygon>
+                    <polygon id="Fill-6" points="2.5 13 12 13 12 12 2.5 12"></polygon>
+                    <polygon id="Fill-7" points="2.5 15 12 15 12 14 2.5 14"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
