@@ -1,5 +1,7 @@
 # catalyst-visual
 
+This Package library Icon & Illustration on Bukalapak for Vue
+
 ## Project setup
 ```
 npm install
@@ -10,17 +12,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Generate file svg to javascript and exporting code for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+npm run kickstart
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```

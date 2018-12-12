@@ -1,7 +1,12 @@
 {
-  "name": "@dfurqon/catalyst-visual",
+  "name": "@bukalapak/catalyst-visual",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
+  "author": "Bukalapak",
+  "repository": "https://github.com/bukalapak/catalyst",
+  "bugs": {
+    "url": "https://github.com/bukalapak/catalyst/issues"
+  },
   "main": "./dist/catalyst.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
