@@ -1,14 +1,17 @@
 {
-  "name": "catalyst-visual",
+  "name": "@dfurqon/catalyst-visual",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "./dist/catalyst.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "icons": "vsvg -s ./src/assets/svg/icons -t ./src/components/Icons/data --svgo scripts/svgo.js && NODE_ENV=icons node scripts/generate-name.js",
     "illustrations": "vsvg -s ./src/assets/svg/illustrations -t ./src/components/Illustrations/data --svgo scripts/svgo.js && NODE_ENV=illustrations node scripts/generate-name.js",
-    "test": "npm run icons && npm run illustrations"
+    "build:svg": "vue-cli-service build --target lib --name catalyst ./src/components/index.js",
+    "generate:svg": "npm run icons && npm run illustrations",
+    "kickstart": "npm run generate:svg && npm run build:svg"
   },
   "dependencies": {
     "vue": "^2.5.17"
@@ -49,5 +52,10 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
+  ],
+  "files": [
+    "dist/*",
+    "*.json",
+    "*.js"
   ]
 }
