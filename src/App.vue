@@ -2,7 +2,7 @@
   <div id="app">
     <div class="container">
       <div>
-        <h1>Icon List</h1>
+        <h1>Icon SVG List</h1>
         <div class="line"></div>
         <div class="column">
           <div v-for="(data, index) in iconDatas" class="box-icon" :key="index">
